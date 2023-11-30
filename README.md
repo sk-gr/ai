@@ -1,6 +1,6 @@
 # ai
 
-Roughly exploring the following areaas to start, and more.
+Roughly exploring the following areas to start, and more.
 
 Hugging Face
 
